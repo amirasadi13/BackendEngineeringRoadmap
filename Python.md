@@ -59,5 +59,53 @@ Strings in python are surrounded by either single quotation marks, or double quo
 * Join : 	Converts the elements of an iterable into a string
 * Startswith : Returns true if the string starts with the specified value
   
-### String Format :
+## String Format :
 The format() method takes the passed arguments, formats them, and places them in the string where the placeholders {}
+
+## Boolean :
+In programming you often need to know if an expression is True or False.
+You can evaluate any expression in Python, and get one of two answers, True or False.
+
+## Operators : 
+Operators are used to perform operations on variables and values.
+
+Python divides the operators in the following groups:
+  - Arithmetic operators
+  - Assignment operators
+  - Comparison operators
+  - Logical operators
+  - Identity operators
+  - Membership operators
+  - Bitwise operators
+
+
+## Collections 
+* List
+* Tuple 
+* Dictionary
+* Set
+
+## Lists :
+mylist = ["apple", "banana", "cherry"]
+> ** 📝 NOTE : ** Lists are used to store multiple items in a single variable, List items are ordered, changeable, allow duplicate values and indexed
+[More Info](https://www.w3schools.com/python/python_lists.asp)
+
+## Tuples :
+mytuple = ("apple", "banana", "cherry")
+> ** 📝 NOTE : ** Tuples are used to store multiple items in a single variable, Tuples items are ordered, unchangeable, allow duplicate values and indexed
+[More Info](https://www.w3schools.com/python/python_tuples.asp)
+
+## Sets :
+myset = {"apple", "banana", "cherry"}
+> ** 📝 NOTE : ** Sets are used to store multiple items in a single variable, Sets items are unordered, unchangeable, not allow duplicate values and unindexed
+[More Info](https://www.w3schools.com/python/python_sets.asp)
+
+
+## Dictionaries :
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+> ** 📝 NOTE : ** Dictionaries are used to store data values in key:value pairs, Dictionaries items are ordered, changeable, not allow duplicate values
+[More Info](https://www.w3schools.com/python/python_dictionaries.asp)
