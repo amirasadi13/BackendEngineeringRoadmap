@@ -7,7 +7,6 @@
 
   - [Python](./Python.md)
   - [OPP](./OOP.md)
-  - TDD / DDD / BDD
   - Data Structure
   - Multithreading
   - Multiprocessing
@@ -200,5 +199,6 @@
   - Agile 
   - Scrum 
   - Jira
+  - [Software development methodologies ( TDD / DDD / BDD )](https://www.mobilelive.ca/blog/value-of-tdd-bdd-ddd)
 
 </details>
