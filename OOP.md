@@ -54,7 +54,7 @@ Encapsulation is one of the fundamental concepts in object-oriented programming 
 
 A class is an example of encapsulation as it encapsulates all the data that is member functions, variables, etc.
 
-## Data Hiding
+## Data Abstraction
 In Python, we use double underscore (Or __) before the attributes name and those attributes will not be directly visible outside. 
 
 [Refrence](https://www.geeksforgeeks.org/object-oriented-programming-in-python-set-2-data-hiding-and-object-printing/)
