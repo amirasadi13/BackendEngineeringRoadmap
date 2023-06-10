@@ -5,7 +5,7 @@
   Base Knowledge
   </summary>
 
-  - [Python](#python)
+  - [Python](./Python.md)
   - OPP
   - TDD / DDD / BDD
   - Data Structure
