@@ -7,7 +7,7 @@
 
   - [Python](./Python.md)
   - [OPP](./OOP.md)
-  - Data Structure
+  - [Data Structure](./DataStructure.md)
   - Multithreading
   - Multiprocessing
   - Advance Consepts   
