@@ -7,6 +7,7 @@
 
   - [Python](./Python.md)
   - [OPP](./OOP.md)
+  - [Solid Principles](./SolidPrinciples.md)
   - [Data Structure](./DataStructure.md)
   - [Advance Consepts](./AdvanceConcepts.md)  
 
