@@ -1,6 +1,10 @@
 # Backend Engineering Roadmap
 
-  ## Base Knowledge
+<details>
+  <summary>
+  Base Knowledge
+  </summary>
+
   - [Python](#python)
   - OPP
   - TDD / DDD / BDD
@@ -8,9 +12,14 @@
   - Multithreading
   - Multiprocessing
   - Advance Consepts   
-  
-  ## Design Patterns
-  - Design Patterns
+
+</details>
+
+<details>
+  <summary>
+  Design Patterns
+  </summary>
+
   - Solid Principles
   - Monolith Architecture
   - Microservice Architecture
@@ -18,14 +27,26 @@
   - Creational Patterns
   - Structural Patterns
   - Behavioral Patterns 
-  
-  ## Frameworks
+
+</details>
+
+<details>
+  <summary>
+  Frameworks
+  </summary>
+
   - Django
   - Django Rest Framework
   - TODO Fastapi
   - TODO Flask
 
-  ## ORMs
+</details>
+
+<details>
+  <summary>
+  ORMs
+  </summary>
+
   - Django ORM 
   - SqlAlchemy
   - Peewee
@@ -34,12 +55,25 @@
   - Tortoise ORM
   - Storm
 
-  ## Testing
+
+</details>
+
+<details>
+  <summary>
+  Testing
+  </summary>
+
   - Test Writing 
   - Unit Test 
   - Integration Test 
 
-  ## Databases
+</details>
+
+<details>
+  <summary>
+  Databases
+  </summary>
+
   - Memory Based DB
   - Postgresql
   - MySql
@@ -48,11 +82,25 @@
   - Database Optimization
   - Elastic Serach
 
-  ## Authentication 
+</details>
+
+
+<details>
+  <summary>
+  Authentication
+  </summary>
+
   - JWT
   - Oauth 2
 
-  ## APIs
+</details>
+
+
+<details>
+  <summary>
+  APIs
+  </summary>
+
   - REST 
   - gRPC
   - GraphQL
@@ -60,31 +108,69 @@
   - WebSocket
   - Soap
 
-  ## GIT
+</details>
+
+<details>
+  <summary>
+  GIT
+  </summary>
+
   - Git / GitLab / Github
   - CI/CD
 
-  ## Streaming
+</details>
+
+<details>
+  <summary>
+  Streaming
+  </summary>
+
   - WebSocket
   - Channels
 
-  ## Containerization
+</details>
+
+
+<details>
+  <summary>
+  Containerization
+  </summary>
+  
   - Docker
   - Docker Compose 
   - Kubernetes
 
-   ## Distributed Tasks
+</details>
+
+<details>
+  <summary>
+  Distributed Tasks
+  </summary>
+
   - Celery 
   - Celery Beat
 
-  ## Brokers and Backends 
+</details>
+   
+<details>
+  <summary>
+  Brokers and Backends 
+  </summary>
+  
   - Queue Management Systems
   - Redis
   - Kafka
   - Rabbitmq
   - Sidekiq
 
-  ## Deveops & Tools 
+</details>
+   
+<details>
+  <summary>
+  Deveops & Tools 
+  </summary>
+  
+
   - Promethuse 
   - Graylog
   - Sentry 
@@ -103,11 +189,19 @@
   - AWS / EC2 / EKS / S3
   - Object Storages
 
-  ## Managemnet Methodology
+
+</details>
+
+<details>
+  <summary>
+  Managemnet Methodology
+  </summary>
+  
   - Agile 
   - Scrum 
   - Jira
 
+</details>
 
 
 # Python <span id="python"></span>
