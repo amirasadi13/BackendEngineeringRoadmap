@@ -2,7 +2,7 @@
 
 <details>
   <summary>
-  Base Knowledge
+  General 
   </summary>
 
   - [Python](./Python.md)
@@ -202,6 +202,3 @@
   - Jira
 
 </details>
-
-
-# Python <span id="python"></span>
