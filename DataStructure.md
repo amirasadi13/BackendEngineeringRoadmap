@@ -1,1 +1,33 @@
-# Data Structure
+# Data Structures
+- Lists
+- Dictionary
+- Tuple
+- Set
+- Frozen Sets
+- String
+- Bytearray
+- Python Counters
+- Python OrderedDict
+- Python DefaultDict
+- Python ChainMap
+- Python NamedTuple
+- Python Deque
+- UserDict
+- UserList
+- UserString
+- Linked List
+- Linked List Traversal 
+- Stack
+- Queue
+- Priority Queue
+- Heap queue (or heapq)
+- Binary Tree
+- Tree Traversal
+- Breadth-First or Level Order Traversal
+- Graph
+- Adjacency Matrix
+- Adjacency List
+- Graph Traversal
+- Depth First Search or DFS
+
+[Source](https://www.geeksforgeeks.org/python-data-structures/)
