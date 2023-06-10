@@ -8,7 +8,7 @@
   - [Python](./Python.md)
   - [OPP](./OOP.md)
   - [Data Structure](./DataStructure.md)
-  - [Advance Consepts](./AdvancedConsepts.md)  
+  - [Advance Consepts](./AdvanceConcepts.md)  
 
 </details>
 
